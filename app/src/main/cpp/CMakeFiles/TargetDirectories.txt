@@ -1,0 +1,9 @@
+/sdcard/APKKiller-master/app/src/main/cpp/CMakeFiles/killer.dir
+/sdcard/APKKiller-master/app/src/main/cpp/CMakeFiles/edit_cache.dir
+/sdcard/APKKiller-master/app/src/main/cpp/CMakeFiles/rebuild_cache.dir
+/sdcard/APKKiller-master/app/src/main/cpp/whale/CMakeFiles/whale.dir
+/sdcard/APKKiller-master/app/src/main/cpp/whale/CMakeFiles/edit_cache.dir
+/sdcard/APKKiller-master/app/src/main/cpp/whale/CMakeFiles/rebuild_cache.dir
+/sdcard/APKKiller-master/app/src/main/cpp/whale/src/assembler/vixl/CMakeFiles/vixl.dir
+/sdcard/APKKiller-master/app/src/main/cpp/whale/src/assembler/vixl/CMakeFiles/edit_cache.dir
+/sdcard/APKKiller-master/app/src/main/cpp/whale/src/assembler/vixl/CMakeFiles/rebuild_cache.dir
